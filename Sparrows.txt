@@ -12,11 +12,11 @@ Team : SPARROWS                      Coach : Marc Denis
 18 Steve Bernier         0      R  RW   8  7  9  6  5  4  7  7  8  6  7  74 28-3-7-10
 14 Alexandre Burrows     0      L  RW   7  7  5  7  4  5  7  6  6  6  6  66 32-9-8-17
 48 Daniel Briere         0      R  RW   3  7  4  5  6  8  7  5  6  6  5  62 32-7-3-10
-44 Marc-Edouard Vlasic   0      L  D    5  8  7  7  8  8  8  6  7  9  5  78 38-4-8-12
+44 Marc-Edouard Vlasic   0      L  D    5  8  7  7  8  8  8  6  7  9  5  78 39-5-8-13
  7 Jason Demers          0      R  D    6  7  6  7  7  8  6  8  7  6  5  73 38-2-8-10
 19 Stephane Robidas      0      R  D    8  6  8  7  5  7  6  5  6  7  7  72 34-0-5-5
  2 Joni Pitkanen         0      L  D    5  7  7  8  0  7  7  8  8  5  6  68 MR
-42 Adam Pardy            0      L  D    6  6  7  5  6  6  6  5  6  7  4  64 27-0-4-4
+42 Adam Pardy            0      L  D    6  6  7  5  6  6  6  5  6  7  4  64 28-0-4-4
  1 J.S. Giguere          0      L  G    6  7  7  6  6  7  7  7  7  0  0  60 R
 35 Joey MacDonald        0      L  G    7  8  6  6  4  8  7  6  7  0  0  59 MR
 ----------------------------------------------------------------------------
@@ -24,7 +24,7 @@ Team : SPARROWS                      Coach : Marc Denis
 
 Farm club of the SPARROWS             Coach : Denis Gauthier
  # player's name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
-85 Mathieu Perreault     0      L  C    6  7  5  5  6  7  7  7  7  5  6  68 38-9-11-20
+85 Mathieu Perreault     0      L  C    6  7  5  5  6  7  7  7  7  5  6  68 39-9-11-20
 90 Maxim Lapierre        0      R  C    6  6  8  5  7  6  5  4  5  7  4  63 38-2-6-8
 89 Michael Chaput        0      L  C    8  5  6  4  7  9  6  4  5  5  3  62 33-1-4-5
 39 Travis Morin          0      L  C    3  5  6  5  7  9  5  6  5  5  5  61 5-0-0-0
@@ -46,7 +46,7 @@ Farm club of the SPARROWS             Coach : Denis Gauthier
 73 Maxime Fortunus       0      R  D    2  5  7  5  6  9  5  5  5  4  4  57 MR
 47 Yann Sauve            0      L  D    5  5  7  5  6  6  5  5  4  5  4  57 E
  4 Jonathan Racine       0      L  D    6  5  6  5  6  4  6  4  5  5  3  55 E
-49 Julien Brouillette    0      L  D    6  5  5  5  6  6  4  4  4  4  5  54 MR
+49 Julien Brouillette    0      L  D    6  5  5  5  6  6  4  4  4  4  5  54 1-0-0-0
  5 Jean-Philippe Cote    0      L  D    8  4  8  4  5  6  4  5  3  4  2  53 MR
  3 Kevin Marshall        0      L  D    5  4  6  5  6  5  5  4  4  4  4  52 MR
 45 Andrew Campbell       0      L  D    6  4  7  4  6  6  5  3  4  4  2  51 1-0-0-0
