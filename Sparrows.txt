@@ -1,25 +1,25 @@
 Team : SPARROWS                      Coach : Marc Denis
  # player's name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
-10 Vincent Lecavalier    0      L  C    7  9  8  8  8  6  7  9  9  5  8  84 47-7-10-17
-63 Mike Ribeiro          0      L  C    6  8  4  8  9  8  9  9  8  5  7  81 68-13-41-54
-50 Antoine Vermette      0      L  C    5  8  6  7  8  7  8  7  8  6  7  77 66-13-22-35
-25 Maxime Talbot         0      L  C    7  6  6  6  8  7  6  5  6  7  6  70 67-5-12-17
+10 Vincent Lecavalier    0      L  C    7  9  8  8  8  6  7  9  9  5  8  84 51-7-11-18
+63 Mike Ribeiro          0      L  C    6  8  4  8  9  8  9  9  8  5  7  81 73-13-41-54
+50 Antoine Vermette      0      L  C    5  8  6  7  8  7  8  7  8  6  7  77 71-13-24-37
+25 Maxime Talbot         0      L  C    7  6  6  6  8  7  6  5  6  7  6  70 74-5-13-18
 15 Matthew Lombardi      0      L  C    4  7  5  7  7  7  8  6  7  4  5  67 MR
 53 Jerred Smithson       0      R  C    8  5  7  5  9  8  5  4  4  5  4  64 MR
-40 Alex Tanguay          0      L  LW   5  8  6  8  7  7  8  7  8  5  7  76 65-18-25-43
-16 Derick Brassard       0      L  LW   7  7  6  7  7  7  8  7  7  5  6  74 63-14-38-52
-41 Dainius Zubrus        0      L  LW   7  6  9  7  6  7  6  7  6  6  6  73 59-3-5-8
+40 Alex Tanguay          0      L  LW   5  8  6  8  7  7  8  7  8  5  7  76 69-19-27-46
+16 Derick Brassard       0      L  LW   7  7  6  7  7  7  8  7  7  5  6  74 68-14-39-53
+41 Dainius Zubrus        0      L  LW   7  6  9  7  6  7  6  7  6  6  6  73 64-3-5-8
 12 Simon Gagne           0      L  LW   5  8  4  7  7  6  7  6  7  5  8  70 23-3-1-4
 96 Pierre-Marc Bouchard  0      L  LW   2  8  4  6  4  8  8  7  8  5  6  66 MR
  9 Pascal Dupuis         0      L  RW   7  7  7  7  9  7  8  7  8  7  8  82 16-6-5-11
-18 Steve Bernier         0      R  RW   8  7  9  6  5  4  7  7  8  6  7  74 52-10-14-24
-14 Alexandre Burrows     0      L  RW   7  7  5  7  4  5  7  6  6  6  6  66 55-12-13-25
-77 Jordan Caron          0      L  RW   7  6  7  5  6  7  6  5  6  6  5  66 15-0-0-0
-48 Daniel Briere         0      R  RW   3  7  4  5  6  8  7  5  6  6  5  62 50-8-3-11
-44 Marc-Edouard Vlasic   0      L  D    5  8  7  7  8  8  8  6  7  9  5  78 62-8-13-21
- 7 Jason Demers          0      R  D    6  7  6  7  7  8  6  8  7  6  5  73 66-3-17-20
+18 Steve Bernier         0      R  RW   8  7  9  6  5  4  7  7  8  6  7  74 57-12-14-26
+14 Alexandre Burrows     0      L  RW   7  7  5  7  4  5  7  6  6  6  6  66 60-14-14-28
+77 Jordan Caron          0      L  RW   7  6  7  5  6  7  6  5  6  6  5  66 19-0-0-0
+48 Daniel Briere         0      R  RW   3  7  4  5  6  8  7  5  6  6  5  62 54-8-4-12
+44 Marc-Edouard Vlasic   0      L  D    5  8  7  7  8  8  8  6  7  9  5  78 67-8-14-22
+ 7 Jason Demers          0      R  D    6  7  6  7  7  8  6  8  7  6  5  73 71-4-18-22
 19 Stephane Robidas      0      R  D    8  6  8  7  5  7  6  5  6  7  7  72 52-1-6-7
-42 Adam Pardy            0      L  D    6  6  7  5  6  6  6  5  6  7  4  64 40-0-5-5
+42 Adam Pardy            0      L  D    6  6  7  5  6  6  6  5  6  7  4  64 45-0-6-6
 47 Yann Sauve            0      L  D    5  5  7  5  6  6  5  5  4  5  4  57 E
 31 Martin Brodeur        0      L  G    7  8  7  7  6  7  8  8  7  -  -  65 7-0-0-0
  1 J.S. Giguere          0      L  G    6  7  7  6  6  7  7  7  7  0  0  60 R
@@ -29,21 +29,21 @@ Team : SPARROWS                      Coach : Marc Denis
 Farm club of the SPARROWS             Coach : Denis Gauthier
  # player's name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
 85 Mathieu Perreault     0      L  C    6  7  5  5  6  7  7  7  7  5  6  68 56-18-18-36
-90 Maxim Lapierre        0      R  C    6  6  8  5  7  6  5  4  5  7  4  63 64-2-8-10
+90 Maxim Lapierre        0      R  C    6  6  8  5  7  6  5  4  5  7  4  63 70-2-9-11
 89 Michael Chaput        0      L  C    8  5  6  4  7  9  6  4  5  5  3  62 33-1-4-5
 39 Travis Morin          0      L  C    3  5  6  5  7  9  5  6  5  5  5  61 6-0-0-0
- 7 Derek MacKenzie       0      L  C    5  3  5  5  5  5  5  5  4  6  4  52 66-4-5-9
+ 7 Derek MacKenzie       0      L  C    5  3  5  5  5  5  5  5  4  6  4  52 72-5-6-11
 94 Nicolas Deschamps     0      L  C    3  4  4  3  5  4  5  2  4  4  3  41 E
 58 Patrick Bordeleau     0      L  LW   8  5  9  4  9  5  5  4  5  5  4  63 1-0-0-0
-44 Nicolas Deslauriers   0      L  LW   8  5  7  5  5  6  5  4  4  5  4  58 66-5-9-14
+44 Nicolas Deslauriers   0      L  LW   8  5  7  5  5  6  5  4  4  5  4  58 72-5-9-14
 22 Pierre-Cedric Labrie  0      L  LW   8  5  9  4  6  5  5  3  4  4  4  57 MR
 71 Philippe Cornet       0      L  LW   4  5  6  5  6  7  5  4  5  4  5  56 E
  8 Stephane Veilleux     0      L  LW   6  5  6  4  3  7  5  2  4  5  4  51 12-1-1-2
-24 Marc-Andre Cliche     0      R  RW   9  6  7  5  7  8  6  4  5  6  3  66 59-1-4-5
-17 Torrey Mitchell       0      R  RW   6  6  5  5  6  7  7  5  6  7  5  65 54-6-7-13
+24 Marc-Andre Cliche     0      R  RW   9  6  7  5  7  8  6  4  5  6  3  66 63-1-4-5
+17 Torrey Mitchell       0      R  RW   6  6  5  5  6  7  7  5  6  7  5  65 57-6-7-13
 32 P.-Luc Letourneau     0      L  RW   2  6  7  3  6  9  6  2  5  6  3  55 MR
-11 Simon Despres         0      L  D    6  5  6  6  6  5  6  6  6  6  4  62 63-2-16-18
- 6 Nate Guenin           0      R  D    7  5  7  6  6  6  6  4  5  6  4  62 61-2-11-13
+11 Simon Despres         0      L  D    6  5  6  6  6  5  6  6  6  6  4  62 68-2-19-21
+ 6 Nate Guenin           0      R  D    7  5  7  6  6  6  6  4  5  6  4  62 65-2-12-14
 43 Marc-Andre Bourdon    0      L  D    7  6  6  5  6  5  6  4  6  5  5  61 MR
 55 Francis Bouillon      0      L  D    4  6  4  5  7  7  6  4  5  5  4  57 MR
 73 Maxime Fortunus       0      R  D    2  5  7  5  6  9  5  5  5  4  4  57 MR
@@ -51,9 +51,8 @@ Farm club of the SPARROWS             Coach : Denis Gauthier
 49 Julien Brouillette    0      L  D    6  5  5  5  6  6  4  4  4  4  5  54 1-0-0-0
  5 Jean-Philippe Cote    0      L  D    8  4  8  4  5  6  4  5  3  4  2  53 MR
  3 Kevin Marshall        0      L  D    5  4  6  5  6  5  5  4  4  4  4  52 MR
-45 Andrew Campbell       0      L  D    6  4  7  4  6  6  5  3  4  4  2  51 22-0-1-1
-35 Joey MacDonald        0      L  G    7  8  6  6  4  8  7  6  7  0  0  59 MR
+45 Andrew Campbell       0      L  D    6  4  7  4  6  6  5  3  4  4  2  51 26-0-1-1
 60 Kevin Poulin          0      L  G    7  6  7  6  6  6  6  5  6  0  0  55 1-0-0-0
 33 Cedrick Desjardins    0      L  G    6  6  5  5  6  4  4  4  5  0  0  45 MR
 ----------------------------------------------------------------------------
-27  ---Team Average---                  6  5  7  5  6  6  5  4  5  4  4  57
+26  ---Team Average---                  6  5  7  5  6  6  5  4  5  4  4  57
