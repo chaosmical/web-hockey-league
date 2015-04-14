@@ -2,18 +2,23 @@ WHL 2014-15 Ratings
 
 Team : BRUINS                        Coach : Claude Julien
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Tuukka Rask
+   Niklas Svedberg
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the BRUINS               Coach : Bruce Cassidy
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Malcolm Subban
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : CANADIENS                     Coach : Michel Therrien
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Carey Price
+   Dustin Tokarski
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the CANADIENS            Coach : Sylvain Lefebvre
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
@@ -22,8 +27,10 @@ Farm club of the CANADIENS            Coach : Sylvain Lefebvre
 
 Team : LIGHTNING                     Coach : Jon Cooper
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Ben Bishop
+   Andrei Vasilevskiy
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the LIGHTNING            Coach : Rob Zettler
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
@@ -32,8 +39,10 @@ Farm club of the LIGHTNING            Coach : Rob Zettler
 
 Team : MPL LEAFS                     Coach : Peter Horachek
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Jonathan Bernier
+   James Reimer
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the MPL LEAFS            Coach : Gord Dineen
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
@@ -42,48 +51,65 @@ Farm club of the MPL LEAFS            Coach : Gord Dineen
 
 Team : PANTHERS                      Coach : Gerard Gallat
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Roberto Luongo
+   Al Montoya
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the PANTHERS             Coach : Tom Rowe
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Dan Ellis
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : RED WINGS                     Coach : Mike Babcock
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Jonas Gustavsson
+   Jimmy Howard
+   Petr Mrazek
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 3  ---Team Average---
 
 Farm club of the RED WINGS            Coach : Jeff Blashill
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Tom McCollum
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : SABRES                        Coach : Ted Nolan
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Chad Johnson
+   Anders Lindback
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the SABRES               Coach : Chadd Cassidy
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Matt Hackett
+   Andrey Makarov
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Team : SENATORS                      Coach : Dave Cameron
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Craig Anderson
+   Andrew Hammond
+   Robin Lehner
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the SENATORS             Coach : Luke Richardson
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Chris Driedger
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : BJACKETS                      Coach : Todd Richards
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Sergei Bobrovsky
+   Curtis McElhinney
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the BJACKETS             Coach : Jared Bednar
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
@@ -92,38 +118,49 @@ Farm club of the BJACKETS             Coach : Jared Bednar
 
 Team : CAPITALS                      Coach : Barry Trotz
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Braden Holtby
+   Justin Peters
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the CAPITALS             Coach : Troy Mann
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Philipp Grubauer
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : DEVILS                        Coach : Adam Oates / Scott Stevens
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Keith Kinkaid
+   Cory Schneider
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the DEVILS               Coach : Rick Kowalsky
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Scott Clemmensen
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : FLYERS                        Coach : Craig Berube
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Ray Emery
+   Steve Mason
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the FLYERS               Coach : Terry Murray
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Rob Zepp
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : HURRICNES                     Coach : Bill Peters
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Anton Khudobin
+   Cam Ward
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the HURRICNES            Coach : Jeff Daniels
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
@@ -132,58 +169,76 @@ Farm club of the HURRICNES            Coach : Jeff Daniels
 
 Team : ISLANDERS                     Coach : Jack Capuano
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Jaroslav Halak
+   Michal Neuvirth
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the ISLANDERS            Coach : Brent Thompson
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Kevin Poulin
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : PENGUINS                      Coach : Mike Johnston
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Marc-Andre Fleury
+   Thomas Greiss
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the PENGUINS             Coach : John Hynes
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Jeff Zatkoff
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : RANGERS                       Coach : Alain Vigneault
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Henrik Lundqvist
+   Cam Talbot
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the RANGERS              Coach : Ken Gernander
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Mackenzie Skapski
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : AVALANCHE                     Coach : Patrick Roy
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Reto Berra
+   Semyon Varlamov
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the AVALANCHE            Coach : Dean Chynoweth
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Calvin Pickard
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : BLACKHWKS                     Coach : Joel Quenneville
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Corey Crawford
+   Antto Raanta
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the BLACKHWKS            Coach : Ted Dent
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Scott Darling
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : BLUES                         Coach : Ken Hitchcock
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Jake Allen
+   Martin Brodeur
+   Brian Elliott
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 3  ---Team Average---
 
 Farm club of the BLUES                Coach : John Anderson
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
@@ -192,8 +247,10 @@ Farm club of the BLUES                Coach : John Anderson
 
 Team : JETS                          Coach : Paul Maurice
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Michael Hutchinson
+   Ondrej Pavelec
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the JETS                 Coach : Keith McCambridge
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
@@ -202,78 +259,104 @@ Farm club of the JETS                 Coach : Keith McCambridge
 
 Team : PREDATORS                     Coach : Peter Laviolette
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Carter Hutton
+   Pekka Rinne
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the PREDATORS            Coach : Dean Evason
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Anton Forsberg
+   Marek Mazanec
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Team : STARS                         Coach : Lindy Ruff
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Jhonas Enroth
+   Kari Lehtonen
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the STARS                Coach : Derek Laxdal
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Jussi Rynnas
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
  Team : WILD                          Coach : Mike Yeo
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Niklas Backstrom
+   Devan Dubnyk
+   Darcy Kuemper
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 3  ---Team Average---
 
 Farm club of the WILD                 Coach : John Torchetti
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   John Curry
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : CANUCKS                       Coach : Willie Desjardins
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Eddie Lack
+   Ryan Miller
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the CANUCKS              Coach : Travis Green
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Jacob Markstrom
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : COYOTES                       Coach : Dave Tippett
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Louis Domingue
+   Mike Smith
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the COYOTES              Coach : Ray Edwards
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Mike McKenna
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : DUCKS                         Coach : Bruce Boudreau
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Frederik Andersen
+   John Gibson
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the DUCKS                Coach : Jarrod Skalde
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Ilya Bryzgalov
+   Jason LaBarbera
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Team : FLAMES                        Coach : Bob Hartley
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Jonas Hiller
+   Karri Ramo
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the FLAMES               Coach : Ryan Huska
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Joni Ortio
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 Team : KINGS                         Coach : Darryl Sutter
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Martin Jones
+   Jonathan Quick
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the KINGS                Coach : Mike Stothers
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
@@ -282,23 +365,32 @@ Farm club of the KINGS                Coach : Mike Stothers
 
 Team : OILERS                        Coach : Todd Nelson
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Viktor Fasth
+   Ben Scrivens
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 2  ---Team Average---
 
 Farm club of the OILERS               Coach : Gerry Fleming
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Richard Bachman
+   Laurent Brossoit
+   Tyler Bunz
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 3  ---Team Average---
 
 Team : SHARKS                        Coach : Todd McLellan
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Evgeni Nabokov
+   Antti Niemi
+   Alex Stalock
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 3  ---Team Average---
 
 Farm club of the SHARKS               Coach : Roy Sommer
  # Player's Name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
+   Troy Grosenick
 ----------------------------------------------------------------------------
-00  ---Team Average---
+ 1  ---Team Average---
 
 
 ©2015 Web Hockey League
