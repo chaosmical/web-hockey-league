@@ -1,0 +1,52 @@
+WHL20 Playoffs Match-ups
+
+x - Clinched Division Title
+y - Clinched Conference Title
+z - Clinched League Title (Presidents Trophy)
+p - Clinched Playoffs Position
+e - Out of Playoffs
+
+                           WALES Conference
+    RK  TEAM       GP   W   L   T   GF   GA   PTS    PCT
+xy   1  DEMONS     83  61  16   6  478  307   128   .771
+x    2  POLRBEARS  83  59  20   4  449  312   122   .735
+p    3  SCHOONERS  83  48  26   9  326  241   105   .633
+p    4  SPARROWS   83  43  36   4  368  326    90   .542
+p    5  CORINTHS   83  42  36   5  344  313    89   .536
+p    6  STALLIONS  83  39  33  11  329  316    89   .536
+p    7  SNOWDOGS   83  37  38   8  349  340    82   .494
+p    8  DROPKICKS  83  36  39   8  311  314    80   .482
+~~~~~~~~~~~~~~~~~~~~~~~ Eliminated ~~~~~~~~~~~~~~~~~~~~~
+e    9  CITADELS   83  34  47   2  298  396    70   .422
+e   10  T-BOLTS    83  28  47   8  303  368    64   .386
+e   11  LUNATICS   83  30  50   3  314  383    63   .380
+e   12  ICEDOGS    83  19  58   6  293  419    44   .265
+
+Matchup 1    SNO/DRO vs New York Demons
+Matchup 2    SNO/DRO vs Ottawa Polar Bears
+Matchup 3    SPA/COR/STA vs Atlantic Schooners
+Matchup 4    SPA/COR/STA vs SPA/COR/STA
+
+                          CAMPBELL Conference
+    RK  TEAM       GP   W   L   T   GF   GA   PTS    PCT
+xyz  1  FIRISH     83  68  13   2  578  293   138   .831
+x    2  FIGMENTS   83  51  24   8  396  280   110   .663
+p    3  COUGARS    83  49  29   5  381  315   103   .620
+p    4  RINK RATS  83  45  31   7  341  305    97   .584
+p    5  VOODOO     83  44  32   7  343  315    95   .572
+p    6  CATS       83  39  39   5  326  336    83   .500
+p    7  EXPRESS    83  36  38   9  343  336    81   .488
+p    8  BULLS      83  33  44   6  321  349    72   .434
+~~~~~~~~~~~~~~~~~~~~~~~ Eliminated ~~~~~~~~~~~~~~~~~~~~~
+e    9  STAMPEDE   83  30  47   6  333  418    66   .398
+e   10  GRIZZLIES  83  20  55   8  282  394    48   .289
+e   11  WARRIORS   83  17  60   6  301  505    40   .241
+e   12  MNTN MEN   83  13  63   7  271  497    33   .199
+
+Matchup 1    Las Vegas Bulls vs Saskatoon Fighting Irish
+Matchup 2    Rocky Mountain Express vs Ypsilanti Figments
+Matchup 3    Kelowna Cats vs Detroit Cougars
+Matchup 4    RR/VOO vs RR/VOO
+
+
+©2015 Web Hockey League
