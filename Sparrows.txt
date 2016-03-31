@@ -28,7 +28,7 @@ Team : SPARROWS                      Coach : Marc Denis
 Farm club of the SPARROWS             Coach : Denis Gauthier
  # player's name         St Inj H  Ps   Ag Qk Pw Fa In Pn Sk Pa PC Ck Sh Ttl
 76 Philippe Paradis      0      L  C    6  6  5  5  5  6  6  5  5  4  5  58 E
-76 Josh Jooris           0      R  C    7  6  6  5  5  8  7  5  5  7  6  67 53-4-7-11
+76 Josh Jooris           0      R  C    7  6  6  5  5  8  7  5  5  7  6  67 54-4-7-11
 90 Maxim Lapierre        0      R  C    6  6  8  5  7  6  5  4  5  7  4  63 MR
 89 Michael Chaput        0      L  C    8  5  6  4  7  9  6  4  5  5  3  62 8-1-1-2
 39 Travis Morin          0      L  C    3  5  6  5  7  9  5  6  5  5  5  61 MR
