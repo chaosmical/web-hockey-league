@@ -11,7 +11,7 @@ Team : SPARROWS                      Coach : Marc Denis
 57 Gabriel Bourque       0      L  LW   6  7  6  6  6  9  6  5  7  5  7  70 22-1-3-4
  9 Pascal Dupuis         0      L  RW   7  7  7  7  9  7  8  7  8  7  8  82 F
 18 Steve Bernier         0      R  RW   7  6  8  5  7  8  6  6  6  6  6  71 20-1-3-4
-14 Alexandre Burrows     0      L  RW   7  6  7  6  7  5  7  5  6  7  6  69 74-9-13-22
+14 Alexandre Burrows     0      L  RW   7  6  7  6  7  5  7  5  6  7  6  69 75-9-13-22
 77 Jordan Caron          0      L  RW   7  6  7  5  6  7  6  5  6  6  5  66 4-0-0-0
 19 Torrey Mitchell       0      R  RW   6  6  5  5  6  7  7  5  6  7  5  65 67-10-8-18
 44 Marc-Edouard Vlasic   0      L  D    5  8  7  8  7  8  8  5  7  9  7  79 67-8-31-39
@@ -44,7 +44,7 @@ Farm club of the SPARROWS             Coach : Denis Gauthier
  5 Nate Guenin           0      R  D    7  5  7  6  6  6  6  4  5  6  4  62 29-0-0-0
 84 Taylor Chorney        0      L  D    5  6  5  4  6  6  7  5  6  5  4  59 54-1-5-6
 28 Frederic St-Denis     0      L  D    5  6  6  4  6  7  6  4  5  5  3  57 MR
-55 Alex Biega            0      R  D    7  5  7  5  5  5  5  3  4  6  4  56 46-0-4-4
+55 Alex Biega            0      R  D    7  5  7  5  5  5  5  3  4  6  4  56 47-0-5-5
 41 Danny Biega           0      R  D    8  5  7  5  5  6  5  4  4  4  3  56 E
 68 Jonathan Racine       0      L  D    6  5  6  5  6  4  6  4  5  5  3  55 E
 94 Julien Brouillette    0      L  D    6  5  5  5  6  6  4  4  4  4  5  54 MR
