@@ -10,7 +10,7 @@ Team : SPARROWS                      Coach : Marc Denis
 75 Dwight King           0      L  LW   7  5  9  6  8  8  6  5  5  6  6  71 47-7-6-13
 57 Gabriel Bourque       0      L  LW   6  7  6  6  6  9  6  5  7  5  7  70 22-1-3-4
  9 Pascal Dupuis         0      L  RW   7  7  7  7  9  7  8  7  8  7  8  82 F
-18 Steve Bernier         0      R  RW   7  6  8  5  7  8  6  6  6  6  6  71 23-1-5-6
+18 Steve Bernier         0      R  RW   7  6  8  5  7  8  6  6  6  6  6  71 24-1-5-6
 14 Alexandre Burrows     0      L  RW   7  6  7  6  7  5  7  5  6  7  6  69 79-9-13-22
 77 Jordan Caron          0      L  RW   7  6  7  5  6  7  6  5  6  6  5  66 4-0-0-0
 19 Torrey Mitchell       0      R  RW   6  6  5  5  6  7  7  5  6  7  5  65 68-11-8-19
@@ -21,7 +21,7 @@ Team : SPARROWS                      Coach : Marc Denis
 17 Brad Stuart           0      L  D    8  5  8  7  5  7  7  5  6  7  4  69 6-0-0-0
  7 Stephane Robidas      0      R  D    7  6  8  6  5  7  6  5  6  7  3  66 I
 80 Ilja Bryzgalov        0      L  G    7  9  7  9  7  8  8  7  8  -  -  70 MR
- 1 Thomas Greiss         0      L  G    7  8  7  5  6  7  8  6  7  -  -  61 40
+ 1 Thomas Greiss         0      L  G    7  8  7  5  6  7  8  6  7  -  -  61 41
 ----------------------------------------------------------------------------
 22  ---Team Average---                  0  0  0  0  0  0  0  0  0  0  0  00
 
