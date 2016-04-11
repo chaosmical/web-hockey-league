@@ -39,10 +39,10 @@ Farm club of the SPARROWS             Coach : Denis Gauthier
 51 Philippe Cornet       0      L  LW   4  5  6  5  6  7  5  4  5  4  5  56 R
 19 Stephane Veilleux     0      L  LW   6  5  6  4  3  7  5  2  4  5  4  51 MR
 64 Marc-Andre Cliche     0      R  RW   9  6  7  5  7  8  6  4  5  6  3  66 MR
-24 Simon Despres         0      L  D    9  6  8  5  7  6  7  7  6  6  4  71 31-0-4-4
+24 Simon Despres         0      L  D    9  6  8  5  7  6  7  7  6  6  4  71 32-0-4-4
  8 Mark Barberio         0      L  D    5  6  6  5  8  8  7  5  5  5  4  64 30-2-8-10
  5 Nate Guenin           0      R  D    7  5  7  6  6  6  6  4  5  6  4  62 29-0-0-0
-84 Taylor Chorney        0      L  D    5  6  5  4  6  6  7  5  6  5  4  59 54-1-5-6
+84 Taylor Chorney        0      L  D    5  6  5  4  6  6  7  5  6  5  4  59 55-1-5-6
 28 Frederic St-Denis     0      L  D    5  6  6  4  6  7  6  4  5  5  3  57 MR
 55 Alex Biega            0      R  D    7  5  7  5  5  5  5  3  4  6  4  56 51-0-7-7
 41 Danny Biega           0      R  D    8  5  7  5  5  6  5  4  4  4  3  56 E
