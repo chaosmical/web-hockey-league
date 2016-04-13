@@ -10,3 +10,7 @@ Mattias Ohlund
 Nathan Horton
 Stephane Robidas
 Grant Clitsome
+
+Players to fix
+
+Jason Dickinson, changed from R to L.
